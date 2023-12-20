@@ -84,7 +84,6 @@ class Test():
 
 
 
-##content_wrapper > div.col-xs-24.reset-padding.marT22 > div.col-xs-5.reset-padding > div > div.left-wrapper > div.comp-left-filter > div:nth-child(3) > div.filter-content > div > div:nth-child(3) > div > input
 
 x = Test()
 x.test()
