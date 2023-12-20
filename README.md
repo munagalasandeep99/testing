@@ -44,3 +44,6 @@ To run the script locally, follow these steps:
 # Files in Repository
 - functionality.py - main file of testing(this is main file in which the testing code is written)
 - testing.py - tried to use pytest (can ignore this file)
+# Testing Screenshots
+<img width="960" alt="test1" src="https://github.com/munagalasandeep99/testing/assets/129391713/92d8a2e6-560e-422e-9ae6-7fe943879d27">
+<img width="960" alt="test2" src="https://github.com/munagalasandeep99/testing/assets/129391713/15348fd2-1149-45fe-ac86-7453bcd02bea">
