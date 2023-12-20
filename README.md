@@ -41,6 +41,6 @@ To run the script locally, follow these steps:
 - Enhance error handling and reporting for a more comprehensive test suite.
 - Implement data-driven testing for different search queries and price ranges.
 - Modularize the code for better maintainability.
-
-# Conclusion
-The automated test script successfully performs the specified actions on the Snapdeal website. Although challenges were encountered during setup and element identification, the script effectively automates the test case.
+# Files in Repository
+- functionality.py - main file of testing(this is main file in which the testing code is written)
+- testing.py - tried to use pytest (can ignore this file)
