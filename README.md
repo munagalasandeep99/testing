@@ -19,6 +19,7 @@ The test case performs the following steps:
 - Selenium WebDriver: Used for browser automation.
 - Python: Language used to write the automation script and test cases.
 - ChromeDriver: WebDriver for Chrome browser.
+- pycharm (IDE)
 
 # Setup Instructions
 To run the script locally, follow these steps:
@@ -45,5 +46,5 @@ To run the script locally, follow these steps:
 - functionality.py - main file of testing(this is main file in which the testing code is written)
 - testing.py - tried to use pytest (can ignore this file)
 # Testing Screenshots
-<img width="960" alt="test1" src="https://github.com/munagalasandeep99/testing/assets/129391713/92d8a2e6-560e-422e-9ae6-7fe943879d27">
+<img width="960" alt="test1" src="https://github.com/munagalasandeep99/testing/assets/129391713/32d69b0e-90b2-4cc7-9669-65cc899f88fe">
 <img width="960" alt="test2" src="https://github.com/munagalasandeep99/testing/assets/129391713/15348fd2-1149-45fe-ac86-7453bcd02bea">
