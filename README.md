@@ -31,9 +31,10 @@ To run the script locally, follow these steps:
 
 # Running the Test
 1. Open the terminal and navigate to the project directory.
-2. Execute the command: `python test_script.py`.
+2. Execute the command: `python functionality.py`.
 3. The automated test will run, and the output will be displayed in the terminal.
-
+# video of automatic testing
+https://github.com/munagalasandeep99/testing/assets/129391713/3ebbaaab-1f15-4394-9982-4b0bf601aa9f
 # Challenges Faced
 - Installation and Configuration: Setting up the Selenium WebDriver and ensuring compatibility with the Chrome browser version was a challenge.
 - Dynamic Elements: Identifying and handling dynamically changing elements on the website was challenging, requiring the use of explicit waits and proper element locators.
